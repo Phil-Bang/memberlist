@@ -15,10 +15,9 @@
 
 ### 작성방법
 
-1. [https://](https://) 접속 후 `README.md` 파일을 클릭하세요.
-2. `README.md` 파일의 편집 버튼을 클릭하세요.
+1. [https://github.com/Phil-Bang/memberlist](https://github.com/Phil-Bang/memberlist) 접속 후 `README.md` 파일을 클릭하세요.
+2. `README.md` 파일의 편집버튼(연필모양)클릭하세요.
 3. 멤버 명단에 자신의 소속,이름,메일주소를 작성하여 한 줄을 추가해 주세요.
 4. `[Propose file change]` 버튼을 클릭하세요.
 5. `[Create pull request]` 버튼을 클릭하세요.
 6. `[Create pull request]` 버튼을 한 번 더 클릭하세요.
-7. 커뮤니티 관리자의 `Merge`를 기다려 주세요. `Merge`가 되어야 수정 내역이 본 문서에 반영되고 `contributors`로 등록됩니다.
