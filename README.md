@@ -4,10 +4,11 @@
 
 |NO  |     소속 / 회원명 / 개인메일주소             |   |
 |:--:|----------------------------------------|-----|
-|1   | 도장생기1팀 / 방경필 책임   / ndbb2046@gmail.com        |     |
-|2   | 차량생기1팀 / 조경주 매니저 / goodmorning_7@hanmail.net | C조 |
-|3   | 차체생기1팀 / 박재균 책임   / czjk83@gmail.com          | D조 |
-|4   | 차체부품생기팀 / 강록중 매니저 / runnerinlife@naver.com  | E조 |
+|1   | 도장생기1팀    / 방경필 책임    / ndbb2046@gmail.com        |     |
+|2   | 차량생기1팀    / 조경주 매니저  / goodmorning_7@hanmail.net | C조 |
+|3   | 차체생기1팀    / 박재균 책임    / czjk83@gmail.com          | D조 |
+|4   | 차체부품생기팀 / 강록중 매니저  / runnerinlife@naver.com    | E조 |
+|5   | 차체생기1팀    / 백준호 매니저  / arsenalman@naver.com      | D조 |
 
 
 <!-- 여기에 한 줄 추가해 주세요 -->
