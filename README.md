@@ -8,7 +8,7 @@
 |2   | 도장생기1팀    / 방경필 책임    / ndbb2046@gmail.com        |     |
 |3   | 차량생기1팀    / 김성근 매니저  /                           | A조 |
 |4   | 차량생기1팀    / 심준수 매니저  / bibalysimz@naver.com      | A조 |
-|5   | 도장생기1팀    / 양지순 매니저  / podonggjay@gmail.com      | A조 |
+|5   | 도장생기1팀    / 양지순 매니저  / podongjay@gmail.com      | A조 |
 |6   | 도장생기1팀    / 배소희 매니저  / sohee9090@naver.com       | A조 |
 |7   | 도장생기1팀    / 윤병찬 매니저  / ybcybc3@naver.com         | A조 |
 |8   | 차량생기1팀    / 김두철 매니저  / twogold2@naver.com        | B조 |
