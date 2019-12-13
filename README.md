@@ -29,9 +29,9 @@
 |23  | 차체부품생기팀|  김가혜 매니저|   gkim5151@naver.com        | E조 |
 |24  | 차체부품생기팀|  강록중 매니저|   runnerinlife@naver.com    | E조 |
 |25  | 차체생기2팀   |  이준희 책임  |  lzidane@naver.com          |    |
-|26  | 도장생기2팀   |  정영준 매니저|                             |  |
+|26  | 도장생기2팀   |  정영준 매니저|   redlair@naver.com         |  |
 |27  | 차량생기2팀   |  심형재 매니저|   sim881031@naver.com       |  |
-|28  | 안전부품생기팀|  이계상 책임  |                             |  |
+|28  | 안전부품생기팀|  이계상 책임  |   2510861@daum.net          |  |
 |29  | 안전부품생기팀|  정병조 책임  |   yjungl34@gmail.com        |  |
 |30  | 차체생기3팀   |  김민수 매니저|   soooals@naver.com         |  |
 |31  | 도장생기3팀   |  홍윤성 매니저|   big33p@naver.com          |  |
