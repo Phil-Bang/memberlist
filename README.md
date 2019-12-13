@@ -18,7 +18,7 @@
 |12  | 차량생기1팀|     조경주 매니저|   goodmorning_7@hanmail.net | C조 |
 |13  | 도장생기1팀|     박기도 매니저|   pgd9316@naver.com         | C조 |
 |14  | 도장생기1팀|     이재범 매니저|   specialpro@naver.com      | C조 |
-|15  | 도장생기1팀|     김진우 매니저|                             | C조 |
+|15  | 도장생기1팀|     김진우 매니저|   44gawd44@gmail.com        | C조 |
 |16  | 프레스생기팀|    유민지 매니저|   tiomg707@naver.com        | D조 |
 |17  | 프레스생기팀|    장우영 매니저|   j_wooy@naver.com          | D조 |
 |18  | 프레스생기팀|    최회현 매니저|   chhyun1118@naver.com      | D조 |
