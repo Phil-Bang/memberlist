@@ -40,6 +40,7 @@
 |    |              |              |                             |  |
 |외  | 도장생기1팀   |  이동호 책임  |   coffee519@naver.com       |  |
 |외  |            |  윤지은 매니저 |   jieun1501@naver.com       | |
+|외  | 차체생기2팀   |  이창희 매니저 |   5606651@gmail.com         ||
 
 ### ◈ Get-together
 
