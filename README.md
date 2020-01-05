@@ -34,10 +34,10 @@
 |28  | 안전부품생기팀|  이계상 책임  |   2510861@daum.net          |  |
 |29  | 안전부품생기팀|  정병조 책임  |   yjungl34@gmail.com        |  |
 |30  | 차체생기3팀   |  김민수 매니저|   soooals@naver.com         |  |
-|30  | 차체생기3팀   |  이정웅 책임  |                             |  |
-|31  | 도장생기3팀   |  홍윤성 매니저|   big33p@naver.com          |  |
-|32  | 차량생기3팀   |  정성원 매니저|   stark30@naver.com         |  |
-|33  | 차량생기3팀   |  장철호 매니저|   chjang9@naver.com         |  |
+|31  | 차체생기3팀   |  이정웅 책임  |                             |  |
+|32  | 도장생기3팀   |  홍윤성 매니저|   big33p@naver.com          |  |
+|33  | 차량생기3팀   |  정성원 매니저|   stark30@naver.com         |  |
+|34  | 차량생기3팀   |  장철호 매니저|   chjang9@naver.com         |  |
 |    |              |              |                             |  |
 |외  | 도장생기1팀   |  이동호 책임  |   coffee519@naver.com       |  |
 |외  |              |  윤지은 매니저 |   jieun1501@naver.com      |  |
